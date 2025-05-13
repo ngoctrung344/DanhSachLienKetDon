@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\THỰC HÀNH CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\DanhSachLienKetDon\DanhSachLienKetDon\DanhSachLienKetDon\Main.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\THỰC HÀNH CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\DanhSachLienKetDon\DanhSachLienKetDon\DanhSachLienKetDon\Main.cpp(5,17): warning C4101: 'pos': unreferenced local variable
+D:\THỰC HÀNH CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\DanhSachLienKetDon\DanhSachLienKetDon\DanhSachLienKetDon\Main.cpp(5,21): warning C4101: 'y': unreferenced local variable
+  DanhSachLienKetDon.vcxproj -> D:\THỰC HÀNH CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT\DanhSachLienKetDon\DanhSachLienKetDon\x64\Debug\DanhSachLienKetDon.exe
